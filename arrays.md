@@ -1,5 +1,6 @@
-Shortcuts — Day 1 & Day 2
-Day 1 — Hashing
+##Shortcuts 
+
+#Hashing
 1. Two Sum → "Need = Target - Current"
 
 Clue:
